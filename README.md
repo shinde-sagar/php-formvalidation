@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <h3>Official documentation : <a href="http://knicklab.com/PHP FormValidation 1.0">http://knicklab.com/PHP FormValidation 1.0</a></h3>
+    <h3>Official documentation : <a href="http://library.knicklab.com/PHP FormValidation 1.0">Click here</a></h3>
     <div class="container">
         <nav class="navbar navbar-default">
             <div class="container-fluid">
